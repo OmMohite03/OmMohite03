@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmMohite03
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning .NET MVC
+- 👀 I’m interested in Python & C#
+- 🌱 I’m currently learning Django REST framework
 - 💞️ I’m looking to collaborate on ...something
 - 📫 How to reach me ...nowhere
 - 😄 Pronouns: ..."sleepy cat"
